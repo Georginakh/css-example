@@ -14,11 +14,11 @@ div.div1{
     border:1px solid rgb(173, 161, 161);
     display: inline-block;
     width: 24%;
-    
+    padding: 5px;
 }
 img{
- width: 385px;  
- padding: 5px;
+ width: 100%;  
+ 
 }
 h2{
     color: black;
