@@ -1,0 +1,54 @@
+h1{
+    color: black;
+}
+
+div{
+    margin-left: 5px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding: 10;
+
+}
+div.div1{
+    box-sizing: border-box;
+    border:1px solid rgb(173, 161, 161);
+    display: inline-block;
+    width: 24%;
+    
+}
+img{
+ width: 385px;  
+ padding: 5px;
+}
+h2{
+    color: black;
+    font-size: 16px;
+    margin-left: 10px;
+}
+p{
+    color: rgb(82, 74, 74);
+    font-size: 14px;
+    margin-left: 10px;
+}
+span.sp1{
+    color: rgb(33, 245, 33);
+    margin-left: 10px;
+}
+span.sp2{
+    color: red;
+    font-size: 12px;
+    margin-left: 10px;
+}
+button.btn{
+    background-color: rgb(38, 132, 239);
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    text-align: center;
+    width: 300px;
+}
+button.btn1{
+    border: solid 2px rgb(38, 132, 239);
+    margin-left: 10px;
+    background-color: white;
+}
